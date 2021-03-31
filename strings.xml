@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Antonia_Pekala_sr_12_30</string>
+    <string name="equals">=</string>
+    <string name="add">+</string>
+    <string name="substract">-</string>
+    <string name="multiply">x</string>
+    <string name="divide">÷</string>
+    <string name="clear">C</string>
+    <string name="percent">%</string>
+    <string name="sqrt">√</string>
+</resources>
